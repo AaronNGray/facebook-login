@@ -11,8 +11,7 @@ https://github.com/zoutepopcorn/pup-face
 ## install
 ```
 git clone https://github.com/zoutepopcorn/pup-face
-```
-```
+
 cd facebook-login
 npm install
 ```
