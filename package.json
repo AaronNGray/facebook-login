@@ -1,0 +1,23 @@
+{
+  "name": "facebook-login",
+  "version": "0.0.1",
+  "description": "A simple facebook example with Puppeteer:\r https://github.com/GoogleChrome/puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoutepopcorn/pup-face.git"
+  },
+  "author": "AaronNGray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoutepopcorn/pup-face/issues"
+  },
+  "homepage": "https://github.com/zoutepopcorn/pup-face#readme"
+}
