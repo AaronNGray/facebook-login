@@ -1,29 +1,26 @@
-# pup-face
+# facebook-login
+
 A simple facebook example with Puppeteer:
 https://github.com/GoogleChrome/puppeteer
 
 It will login to facebook.
 
-You can set ``headless: true`` if you don't want to launch a browser
+Cleaned up version of broken pup-face :-
+https://github.com/zoutepopcorn/pup-face
 
-# install
-* Node.js v v10.1.0 tested
-
+## install
 ```
 git clone https://github.com/zoutepopcorn/pup-face
 ```
-
 ```
-cd pup-face
+cd facebook-login
 npm install
 ```
-
-# set login
-Fill in username and password in creds.rem.js
-
-Save file as: creds.js
-
-# run
+## set login
+copy creds.rem.js to creds.js
+fill in username and password in creds.js
+## run
 ```
 node index
 ```
+You can set ``headless: true`` if you don't want to launch a browser
